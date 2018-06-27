@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Interview Task</string>
+    <string name="percentage">Percentage: </string>
+    <string name="user_list">User List: </string>
+    <string name="user_order">User Order: </string>
+    <string name="dialog_title">Statistics</string>
+    <string name="dialog_positive">OK</string>
+</resources>
